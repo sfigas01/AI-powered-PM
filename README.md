@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository demonstrates a workflow for leveraging AI to handle Product Management tasks end-to-end. The goal is to use AI exclusively for core PM responsibilities, streamlining the product development process through automation and intelligent assistance.
+This repository demonstrates a workflow (or workflows) for leveraging AI to handle Product or Portfolio Management tasks end-to-end. The goal is to learn how to use AI exclusively for core PM responsibilities, streamlining the product development process through automation and intelligent assistance. 
+This repo is my own side project used for learning about AI and does not represent the views of my employer.
+All content here is created using AI and what is publicly availble on the internet.
 
 ## Purpose
 
