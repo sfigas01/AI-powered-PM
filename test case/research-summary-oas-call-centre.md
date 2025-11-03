@@ -1,10 +1,10 @@
 # Research Summary: Pensions Call Centre Challenges
-## Supporting Evidence for Service Canada OAS/GIS Call Centre Pain Points
+## Supporting Evidence for ServiceX OAS/GIS Call Centre Pain Points
 
 **Researcher:** AI Research Assistant
 **Requested by:** Stephanie, Product Manager
 **Date:** November 1, 2024
-**Purpose:** To validate claims made by Brenda (Executive Director of OAS Contact Centre Operations, Service Canada) regarding OAS/GIS call centre challenges with factual data
+**Purpose:** To validate claims made by Brenda (Executive Director of OAS Contact Centre Operations, ServiceX) regarding OAS/GIS call centre challenges with factual data
 
 ---
 
@@ -12,7 +12,7 @@
 
 This research provides **partial validation** of Brenda's claims about Pensions and Guaranteed Income Supplement call centre challenges. While specific OAS call centre data is limited in public records, **historical Auditor General reports and parallel federal call centre evidence strongly support her concerns** about wait times and service quality. The demographic characteristics of OAS beneficiaries (seniors averaging age 65+) and program complexity (quarterly threshold updates, multiple benefit types) are well-documented, lending credibility to Brenda's operational challenges.
 
-**Key limitation:** Unlike EI data, Service Canada does not publish detailed OAS-specific call centre performance metrics publicly, requiring reliance on combined CPP/OAS data and historical reports.
+**Key limitation:** Unlike EI data, ServiceX does not publish detailed OAS-specific call centre performance metrics publicly, requiring reliance on combined CPP/OAS data and historical reports.
 
 ---
 
@@ -33,7 +33,7 @@ According to government documents from December 2022, "the average wait time for
 The Auditor General's 2019 spring report on call centres found that "72% of calls were answered within 10 minutes, and that the average wait time was 5 minutes" for CPP/OAS combined.[2] However, this represents **best-case performance** from 2018-19, and subsequent years saw significant degradation.
 
 **Service Standard:**
-"Service Canada's Canada Pension Plan call centre has a service standard to answer calls within 10 minutes."[3] The consistent gap between this 10-minute standard and actual performance (24 minutes in 2021-22) validates Brenda's concerns.
+"ServiceX's Canada Pension Plan call centre has a service standard to answer calls within 10 minutes."[3] The consistent gap between this 10-minute standard and actual performance (24 minutes in 2021-22) validates Brenda's concerns.
 
 **Declining Performance (2015-2018):**
 "National Scorecard data showed a general decrease in the percentage of Canada Pension Plan and Pensions calls that get through to a call centre agent from 77.09% in fiscal year 2014 to 2015 to 68.2% in fiscal year 2018 to 2019."[2] This represents a **9 percentage point decline** in call accessibility over four years.
@@ -71,7 +71,7 @@ The Auditor General found that "the CRA spent just 2,200 hours of coaching, feed
 **Program Complexity - VALIDATED:**
 
 **Multiple Benefit Types:**
-Official Service Canada documentation confirms the complex program structure Brenda described:
+Official ServiceX documentation confirms the complex program structure Brenda described:
 - Pensions (OAS) pension for seniors 65+
 - Guaranteed Income Supplement (GIS) for low-income OAS recipients
 - Allowance for 60-64 year olds with low income married to GIS recipients
@@ -89,7 +89,7 @@ Research confirms Brenda's claim about quarterly policy changes: "The Guaranteed
 These varying thresholds by marital status and benefit type, **updated quarterly**, validate Brenda's concern that agents struggle to provide current, accurate information.
 
 **Spousal Death Example - VALIDATED:**
-Brenda's specific example about incorrect advice on spousal death reporting is supported by official guidance: "Delays in reporting a death can result in overpayments that must be returned, so notifying Service Canada as soon as possible is important to avoid complications."[8] The complexity stems from GIS being income-tested based on **combined spousal income**, meaning a widow's benefit calculation changes dramatically after reporting a spouse's death—exactly the scenario Brenda described.
+Brenda's specific example about incorrect advice on spousal death reporting is supported by official guidance: "Delays in reporting a death can result in overpayments that must be returned, so notifying ServiceX as soon as possible is important to avoid complications."[8] The complexity stems from GIS being income-tested based on **combined spousal income**, meaning a widow's benefit calculation changes dramatically after reporting a spouse's death—exactly the scenario Brenda described.
 
 **Assessment:** While specific OAS call centre accuracy metrics are unavailable, the **program complexity is well-documented** (multiple benefit types, quarterly updates, varying income thresholds), CRA parallel evidence shows 17-54% accuracy rates, and Brenda's specific examples align with official program rules. Her 16-20% error rate claim is **highly credible**.
 
@@ -134,7 +134,7 @@ The existence of these extensive accessibility accommodations validates Brenda's
 **Historical Service Standard Performance:**
 "National Scorecard data shows a decline in the percentage of Canada Pension Plan and Pensions calls answered by a Specialized Call Centre agent within the service standard of 10 minutes from 96% in March 2015 to 69.8% in March 2018, with an increase to 75.4% in fiscal year 2018 to 2019."[3]
 
-Even at the improved 2018-19 rate of 75.4%, this is **below the 80-85% target** Brenda referenced, supporting her claim that Service Canada struggles to meet service standards.
+Even at the improved 2018-19 rate of 75.4%, this is **below the 80-85% target** Brenda referenced, supporting her claim that ServiceX struggles to meet service standards.
 
 **Declining Access:**
 "National Scorecard data showed a general decrease in the percentage of Canada Pension Plan and Pensions calls that get through to a call centre agent from 77.09% in fiscal year 2014 to 2015 to 68.2% in fiscal year 2018 to 2019."[2]
@@ -204,7 +204,7 @@ GIS benefits are recalculated annually based on income tax returns. Official gui
 In July 2024, major media coverage reported: "Canadian seniors are getting a top-up to old age benefits" with headlines about benefit increases.[16] This type of coverage would drive call volume from seniors seeking clarification, validating Brenda's claim about media-driven spikes.
 
 **Elder Abuse and Financial Exploitation:**
-While specific Service Canada protocols were not found, elder financial abuse is a recognized concern in Canada:
+While specific ServiceX protocols were not found, elder financial abuse is a recognized concern in Canada:
 
 "Elder abuse is any action or lack of action by someone in a position of trust that harms the health or well-being of an older person, and can exist in the form of neglect and financial exploitation."[17]
 
@@ -217,7 +217,7 @@ Brenda's concern that call centre agents might need to detect elder abuse during
 **Complex Income Scenarios:**
 The varying GIS income thresholds by marital status, the requirement to report all income sources, and the interaction with CPP, private pensions, and foreign income create exactly the type of complex scenarios Brenda described requiring human judgment.
 
-**Assessment:** Program-specific operational challenges are **well-documented**, including annual renewal cycles, quarterly threshold updates, and complex income calculations. Elder abuse concerns are **legitimate but not systematically addressed** through Service Canada call centre protocols in available documentation.
+**Assessment:** Program-specific operational challenges are **well-documented**, including annual renewal cycles, quarterly threshold updates, and complex income calculations. Elder abuse concerns are **legitimate but not systematically addressed** through ServiceX call centre protocols in available documentation.
 
 ---
 
@@ -239,11 +239,11 @@ OAS/GIS data includes Social Insurance Numbers, financial information, and perso
 
 ## Research Limitations
 
-1. **Limited OAS-Specific Data:** Service Canada publishes combined CPP/OAS call centre data, making it difficult to isolate OAS-specific performance. Brenda may be describing OAS-only operations while public data combines both programs.
+1. **Limited OAS-Specific Data:** ServiceX publishes combined CPP/OAS call centre data, making it difficult to isolate OAS-specific performance. Brenda may be describing OAS-only operations while public data combines both programs.
 
 2. **Outdated Public Reports:** The most comprehensive call centre analysis is the 2019 Auditor General report. More recent performance data (2022-2024) is limited.
 
-3. **No Published Accuracy Metrics:** Unlike CRA (which was audited in 2024), Service Canada does not publish call centre accuracy or quality assurance data for public consumption.
+3. **No Published Accuracy Metrics:** Unlike CRA (which was audited in 2024), ServiceX does not publish call centre accuracy or quality assurance data for public consumption.
 
 4. **Regional vs. National:** Brenda describes "180 agents across three sites," suggesting a regional operation. National data may not reflect her specific call centre's performance.
 
@@ -277,7 +277,7 @@ OAS/GIS data includes Social Insurance Numbers, financial information, and perso
 
 [2] Office of the Auditor General of Canada. (2019). "Report 1—Call Centres." Spring 2019 Reports. Available at: https://www.oag-bvg.gc.ca/internet/English/parl_oag_201905_01_e_43338.html
 
-[3] Employment and Social Development Canada. "Evaluation of Providing Services and Information to Canadians through Service Canada." Available at: https://www.canada.ca/en/employment-social-development/corporate/reports/evaluations/evaluation-providing-services-information.html
+[3] Employment and Social Development Canada. "Evaluation of Providing Services and Information to Canadians through ServiceX." Available at: https://www.canada.ca/en/employment-social-development/corporate/reports/evaluations/evaluation-providing-services-information.html
 
 [4] Office of the Auditor General of Canada. (2019). "Report 1—Call Centres - Key Findings." Spring 2019 Reports. Available at: https://www.oag-bvg.gc.ca/internet/English/parl_oag_201905_01_e_43338.html
 
@@ -311,7 +311,7 @@ OAS/GIS data includes Social Insurance Numbers, financial information, and perso
 
 ## Recommended Next Steps for Product Manager
 
-1. **Request Internal Data:** Contact Service Canada ATIP (Access to Information and Privacy) office to request:
+1. **Request Internal Data:** Contact ServiceX ATIP (Access to Information and Privacy) office to request:
    - OAS-specific (separate from CPP) call centre performance data for 2022-2024
    - Quality assurance metrics and error rates for OAS call centres
    - Client satisfaction survey results specific to OAS/GIS telephone services

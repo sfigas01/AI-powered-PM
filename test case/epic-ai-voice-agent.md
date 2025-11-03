@@ -1,9 +1,9 @@
-# Epic: AI Voice Agent for Service Canada Call Centres
+# Epic: AI Voice Agent for ServiceX Call Centres
 
 ## Epic Overview
 
 **Epic ID:** EPIC-001
-**Epic Name:** AI Voice Agent for Service Canada Call Centres
+**Epic Name:** AI Voice Agent for ServiceX Call Centres
 **Product Owner:** Stephanie (Product Manager)
 **Created:** November 1, 2024
 **Target Delivery:** Q2 FY2025 (Pilot), Q4 FY2025 (Full Deployment)
@@ -13,7 +13,7 @@
 
 ## Executive Summary
 
-Implement an AI-powered voice agent system to handle routine inquiries for Service Canada's Employment Insurance (EI) and Pensions/Guaranteed Income Supplement (OAS/GIS) call centres. The solution aims to dramatically reduce wait times (from 18-35 minutes to under 5 minutes), improve information accuracy (from 80-84% to 98%+), and enhance citizen satisfaction while maintaining dignified, accessible service for vulnerable populations.
+Implement an AI-powered voice agent system to handle routine inquiries for ServiceX's Employment Insurance (EI) and Pensions/Guaranteed Income Supplement (OAS/GIS) call centres. The solution aims to dramatically reduce wait times (from 18-35 minutes to under 5 minutes), improve information accuracy (from 80-84% to 98%+), and enhance citizen satisfaction while maintaining dignified, accessible service for vulnerable populations.
 
 **Business Impact:**
 - **Volume:** 12,000-38,000 daily calls across both programs
@@ -801,8 +801,8 @@ Implement an AI-powered voice agent system to handle routine inquiries for Servi
 ## Stakeholder Map
 
 ### Executive Sponsors
-- **Deputy Minister, ESDC:** Ultimate accountability for Service Canada operations
-- **Assistant Deputy Minister, Service Canada:** Budget authority and strategic approval
+- **Deputy Minister, ESDC:** Ultimate accountability for ServiceX operations
+- **Assistant Deputy Minister, ServiceX:** Budget authority and strategic approval
 
 ### Primary Stakeholders
 - **Trevor (Director, EI Call Centre Operations):** EI pilot owner, requirements definition
@@ -834,7 +834,7 @@ The following are explicitly **out of scope** for this epic and may be considere
 - **Proactive Outreach:** AI-initiated calls to claimants (requires different consent framework)
 - **Application Processing:** AI completing full EI or OAS applications (too complex for v1.0)
 - **Appeals & Disputes:** AI handling formal appeals or overpayment disputes (requires human judgment)
-- **Other Service Canada Programs:** CPP, disability, passports (separate requirements)
+- **Other ServiceX Programs:** CPP, disability, passports (separate requirements)
 - **Chatbot/Digital Channel:** This epic focuses on voice; digital AI is separate workstream
 - **Agent-Facing AI Tools:** Co-pilot tools for agents (separate epic)
 - **Predictive Analytics:** Using AI to predict claim outcomes or fraud (separate initiative)
@@ -868,7 +868,7 @@ The following are explicitly **out of scope** for this epic and may be considere
 16. [ ] Agent redeployment to complex case work
 17. [ ] Measure ROI and report to Treasury Board
 18. [ ] Publish public transparency report on AI performance
-19. [ ] Plan for expansion to additional Service Canada programs
+19. [ ] Plan for expansion to additional ServiceX programs
 
 ---
 

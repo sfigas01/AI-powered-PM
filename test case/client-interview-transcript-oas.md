@@ -1,7 +1,7 @@
 # Client Discovery Interview Transcript - Pensions
 
 **Date:** October 22, 2024
-**Client:** Brenda, Executive Director of OAS Contact Centre Operations, Service Canada
+**Client:** Brenda, Executive Director of OAS Contact Centre Operations, ServiceX
 **Interviewer:** Stephanie, Product Manager
 **Duration:** 50 minutes
 

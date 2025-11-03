@@ -1,7 +1,7 @@
 # Client Discovery Interview Transcript
 
 **Date:** October 15, 2024
-**Client:** Trevor, Director of Call Centre Operations, Service Canada
+**Client:** Trevor, Director of Call Centre Operations, ServiceX
 **Interviewer:** Stephanie, Product Manager
 **Duration:** 45 minutes
 
@@ -9,7 +9,7 @@
 
 **Stephanie:** Thanks for taking the time to meet with me today, Trevor. I understand you're exploring AI voice solutions for your call center. Can you start by telling me a bit about your current call center operations?
 
-**Trevor:** Of course. We operate a large contact center handling Employment Insurance inquiries for Service Canada. We have about 200 agents across multiple sites handling calls from Canadians applying for or receiving EI benefits. On a typical day, we're processing anywhere from 15,000 to 20,000 calls, but during high unemployment periods or major layoffs, that volume can easily double.
+**Trevor:** Of course. We operate a large contact center handling Employment Insurance inquiries for ServiceX. We have about 200 agents across multiple sites handling calls from Canadians applying for or receiving EI benefits. On a typical day, we're processing anywhere from 15,000 to 20,000 calls, but during high unemployment periods or major layoffs, that volume can easily double.
 
 **Stephanie:** That's significant volume. What prompted you to start looking at AI voice agent solutions?
 
@@ -45,7 +45,7 @@
 
 **Stephanie:** What concerns do you have about implementing AI voice agents?
 
-**Trevor:** A few things. First, I'm concerned about public acceptance. This is a government service, and there's already a lot of frustration around lack of access to Service Canada. Some people might see AI as another barrier rather than a solution. Second, I'm worried about edge cases. What happens when someone calls in with a question that sounds simple but is actually complex? Like someone asking about their hours worked, but they have multiple employers or were laid off mid-week. How does the AI know when to escalate to a human? And third, frankly, I'm concerned about my team and the union. This is a heavily unionized workforce, and I don't want this to feel like we're replacing jobs.
+**Trevor:** A few things. First, I'm concerned about public acceptance. This is a government service, and there's already a lot of frustration around lack of access to ServiceX. Some people might see AI as another barrier rather than a solution. Second, I'm worried about edge cases. What happens when someone calls in with a question that sounds simple but is actually complex? Like someone asking about their hours worked, but they have multiple employers or were laid off mid-week. How does the AI know when to escalate to a human? And third, frankly, I'm concerned about my team and the union. This is a heavily unionized workforce, and I don't want this to feel like we're replacing jobs.
 
 **Stephanie:** Those are all valid concerns. On that last point, how are you thinking about the impact on your workforce?
 

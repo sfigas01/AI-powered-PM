@@ -1,16 +1,16 @@
 # Research Summary: Employment Insurance Call Centre Challenges
-## Supporting Evidence for Service Canada EI Call Centre Pain Points
+## Supporting Evidence for ServiceX EI Call Centre Pain Points
 
 **Researcher:** AI Research Assistant
 **Requested by:** Stephanie, Product Manager
 **Date:** November 1, 2024
-**Purpose:** To validate claims made by Trevor (Director of Call Centre Operations, Service Canada) regarding EI call centre challenges with factual data
+**Purpose:** To validate claims made by Trevor (Director of Call Centre Operations, ServiceX) regarding EI call centre challenges with factual data
 
 ---
 
 ## Executive Summary
 
-This research validates the two core challenges identified in Trevor's interview: **long wait times** and **information accuracy issues** at Service Canada Employment Insurance call centres. While recent government investments have dramatically improved wait times from historical lows, the broader federal government call centre ecosystem (particularly CRA) demonstrates systemic accuracy and quality challenges that likely extend to EI operations.
+This research validates the two core challenges identified in Trevor's interview: **long wait times** and **information accuracy issues** at ServiceX Employment Insurance call centres. While recent government investments have dramatically improved wait times from historical lows, the broader federal government call centre ecosystem (particularly CRA) demonstrates systemic accuracy and quality challenges that likely extend to EI operations.
 
 ---
 
@@ -27,7 +27,7 @@ This research validates the two core challenges identified in Trevor's interview
 According to the official EI Monitoring and Assessment Report 2024, "In 2023-24, as of June 16, 2023, the EI Call Centre answered over 1,100,000 calls with an average annual wait time of 1 minute, compared to an average of 18 minutes for 2022-23."[1] The report further states that "the EI Call Centre answered approximately 6 million calls with an average wait time of 4 minutes, compared to an average of 18 minutes for the same period in 2022–23."[2]
 
 **Government Investment:**
-"On November 3, 2022, the Fall Economic Statement announced $1.02B for Service Canada to process EI and Pensions claims faster, while reducing the EI claim inventory. In addition, $574M was announced to reduce the EI and Pensions Call Centre wait times."[1] This significant investment has led to measurable improvements.
+"On November 3, 2022, the Fall Economic Statement announced $1.02B for ServiceX to process EI and Pensions claims faster, while reducing the EI claim inventory. In addition, $574M was announced to reduce the EI and Pensions Call Centre wait times."[1] This significant investment has led to measurable improvements.
 
 **Staffing Increases:**
 "Approximately 2,625 officers remain from a pandemic high of over 3,000, which is still more than double the number of agents prior to the pandemic, and will be moving to approximately 2,450 officers for 2023-24."[1] This represents a substantial increase in call centre capacity.
@@ -71,7 +71,7 @@ An independent Service Quality Review of EI operations found significant service
 While this data is from CRA, it indicates broader federal call centre challenges: "Customer complaints about the CRA have soared with a 145 per cent spike between 2021-22 and 2024-25."[6]
 
 **EI Earnings Rules Complexity (Supporting Trevor's Example):**
-Official Service Canada documentation confirms the complexity Trevor described. The actual rule is: "If you earn money while receiving EI benefits, you can keep 50 cents of your benefits for every dollar you earn, up to 90% of your previous weekly earnings (roughly 4 and a half days of work). Above this cap, your EI benefits are deducted dollar-for-dollar."[8] This is precisely the type of complex calculation Trevor cited as being frequently communicated incorrectly by agents.
+Official ServiceX documentation confirms the complexity Trevor described. The actual rule is: "If you earn money while receiving EI benefits, you can keep 50 cents of your benefits for every dollar you earn, up to 90% of your previous weekly earnings (roughly 4 and a half days of work). Above this cap, your EI benefits are deducted dollar-for-dollar."[8] This is precisely the type of complex calculation Trevor cited as being frequently communicated incorrectly by agents.
 
 **Assessment:** While specific EI call centre accuracy metrics are not publicly disclosed, the CRA data from the same government ecosystem strongly suggests similar challenges exist. The complexity of EI regulations combined with insufficient training (as evidenced by CRA) makes Trevor's accuracy concerns highly credible.
 
@@ -101,7 +101,7 @@ The 2024 Public Service Employee Survey found that "38% of employees indicated t
 **Union Concerns:**
 The Public Service Alliance of Canada (PSAC) has actively campaigned around call centre job security. In 2024, "nearly 3,300 call centre workers have lost their jobs since May 2024, primarily affecting Canada Revenue Agency call centres."[11]
 
-**Assessment:** Trevor's 25% turnover estimate is actually lower than industry standards (30-45%), suggesting either conservative estimation or better-than-average retention at Service Canada EI centres. The broader federal employee data confirms increasing stress, decreasing satisfaction, and growing turnover intentions.
+**Assessment:** Trevor's 25% turnover estimate is actually lower than industry standards (30-45%), suggesting either conservative estimation or better-than-average retention at ServiceX EI centres. The broader federal employee data confirms increasing stress, decreasing satisfaction, and growing turnover intentions.
 
 ---
 
@@ -118,7 +118,7 @@ The Public Service Alliance of Canada (PSAC) has actively campaigned around call
 The service standard for EI claims processing is "to issue a payment, or notification of non-payment, to claimants within 28 days of filing their application for benefits, 80% of the time."[2] This confirms Trevor's reference to an 80% service standard.
 
 **Historical Performance:**
-"In 2023-24, as of May 31, 2023, 78.7% of EI payments, or notifications of non-payment, were made within 28 days for the whole of Canada, compared to 71.8% over the same period in 2022-23."[2] While this relates to claims processing rather than call answering, it shows Service Canada has historically struggled to meet 80% targets.
+"In 2023-24, as of May 31, 2023, 78.7% of EI payments, or notifications of non-payment, were made within 28 days for the whole of Canada, compared to 71.8% over the same period in 2022-23."[2] While this relates to claims processing rather than call answering, it shows ServiceX has historically struggled to meet 80% targets.
 
 **Call Answering Historical Data:**
 The 2019 Auditor General report noted that "only 67 per cent of calls got through to an agent within 10 minutes in 2018-19."[12] Additionally, "there were 3.1 million blocked calls in 2018-19 along with another 979,761 calls that were abandoned in queue."[12]
@@ -145,7 +145,7 @@ As noted earlier, "approximately 2,625 officers remain from a pandemic high of o
 "The EI call centre received more than 25 million calls in the 2017–18 fiscal year."[5] This translates to approximately 68,000 calls per day assuming 365-day operations, or 96,000+ calls per day for 260 business days. More recent data shows "the EI Call Centre answered approximately 6 million calls" in 2023-24,[2] suggesting volume has decreased post-pandemic.
 
 **In-Person Requests:**
-"In 2023-24, Service Canada in-person staff completed over 1,270,000 EI-related service requests out of a total of over 11.1 million requests across all programs."[1]
+"In 2023-24, ServiceX in-person staff completed over 1,270,000 EI-related service requests out of a total of over 11.1 million requests across all programs."[1]
 
 **Assessment:** Trevor's call volume estimates are conservative compared to national data, again suggesting he may be describing a regional operation rather than the entire national EI call centre.
 
@@ -157,7 +157,7 @@ As noted earlier, "approximately 2,625 officers remain from a pandemic high of o
 Trevor mentioned MP inquiries as escalation paths for serious errors. While specific 2024 data wasn't found, the Service Quality Review noted that complex complaint resolution processes exist and that serious service failures do escalate to political channels.[7]
 
 ### 2. Complex Benefit Types
-Trevor cited multiple benefit types (regular, sickness, maternity/parental, compassionate care) as sources of complexity. Official Service Canada documentation confirms these distinct programs each have "different eligibility rules and calculation methods."[8]
+Trevor cited multiple benefit types (regular, sickness, maternity/parental, compassionate care) as sources of complexity. Official ServiceX documentation confirms these distinct programs each have "different eligibility rules and calculation methods."[8]
 
 ### 3. Legacy Systems Integration
 Trevor mentioned "legacy mainframe systems for EI processing and some newer web-based tools." The Auditor General's CRA report provides parallel evidence, noting that "the contract for the contact centres' telephony system, provided by Shared Services Canada, was awarded in 2015 for a minimum value of $50 million over 10 years, but as of June 2025, the value of the contract with amendments had reached $190 million."[6] This demonstrates ongoing challenges with legacy technology in federal call centres.
@@ -166,7 +166,7 @@ Trevor mentioned "legacy mainframe systems for EI processing and some newer web-
 
 ## Research Limitations
 
-1. **Lack of EI-Specific Accuracy Data:** Service Canada does not publicly report detailed quality assurance metrics for EI call centres, requiring reliance on parallel CRA data as a proxy.
+1. **Lack of EI-Specific Accuracy Data:** ServiceX does not publicly report detailed quality assurance metrics for EI call centres, requiring reliance on parallel CRA data as a proxy.
 
 2. **Regional vs. National Data:** Trevor's numbers may reflect a specific regional call centre rather than national averages, which could explain discrepancies with official statistics.
 
@@ -226,7 +226,7 @@ Trevor mentioned "legacy mainframe systems for EI processing and some newer web-
 
 ## Recommended Next Steps for Product Manager
 
-1. **Request Updated Data:** Contact Service Canada directly to request 2024 Q3/Q4 performance data to verify if improvements have been sustained.
+1. **Request Updated Data:** Contact ServiceX directly to request 2024 Q3/Q4 performance data to verify if improvements have been sustained.
 
 2. **Investigate Regional Variations:** Explore whether Trevor's numbers reflect a specific regional call centre that may be underperforming relative to national averages.
 
