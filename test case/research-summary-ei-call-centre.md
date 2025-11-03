@@ -1,16 +1,16 @@
-# Research Summary: Employment Insurance Call Centre Challenges
-## Supporting Evidence for ServiceX EI Call Centre Pain Points
+# Research Summary: Insurance Call Centre Challenges
+## Supporting Evidence for ServiceX Insurance Call Centre Pain Points
 
 **Researcher:** AI Research Assistant
 **Requested by:** Stephanie, Product Manager
 **Date:** November 1, 2024
-**Purpose:** To validate claims made by Trevor (Director of Call Centre Operations, ServiceX) regarding EI call centre challenges with factual data
+**Purpose:** To validate claims made by Trevor (Director of Call Centre Operations, ServiceX) regarding Insurance call centre challenges with factual data
 
 ---
 
 ## Executive Summary
 
-This research validates the two core challenges identified in Trevor's interview: **long wait times** and **information accuracy issues** at ServiceX Employment Insurance call centres. While recent government investments have dramatically improved wait times from historical lows, the broader federal government call centre ecosystem (particularly CRA) demonstrates systemic accuracy and quality challenges that likely extend to EI operations.
+This research validates the two core challenges identified in Trevor's interview: **long wait times** and **information accuracy issues** at ServiceX Insurance call centres. While recent government investments have dramatically improved wait times from historical lows, the broader federal government call centre ecosystem (particularly CRA) demonstrates systemic accuracy and quality challenges that likely extend to EI operations.
 
 ---
 
@@ -24,7 +24,7 @@ This research validates the two core challenges identified in Trevor's interview
 ### Supporting Evidence:
 
 **Recent Improvements (2023-24):**
-According to the official EI Monitoring and Assessment Report 2024, "In 2023-24, as of June 16, 2023, the EI Call Centre answered over 1,100,000 calls with an average annual wait time of 1 minute, compared to an average of 18 minutes for 2022-23."[1] The report further states that "the EI Call Centre answered approximately 6 million calls with an average wait time of 4 minutes, compared to an average of 18 minutes for the same period in 2022–23."[2]
+According to the official EI Monitoring and Assessment Report 2024, "In 2023-24, as of June 16, 2023, the Insurance Call Centre answered over 1,100,000 calls with an average annual wait time of 1 minute, compared to an average of 18 minutes for 2022-23."[1] The report further states that "the Insurance Call Centre answered approximately 6 million calls with an average wait time of 4 minutes, compared to an average of 18 minutes for the same period in 2022–23."[2]
 
 **Government Investment:**
 "On November 3, 2022, the Fall Economic Statement announced $1.02B for ServiceX to process EI and Pensions claims faster, while reducing the EI claim inventory. In addition, $574M was announced to reduce the EI and Pensions Call Centre wait times."[1] This significant investment has led to measurable improvements.
@@ -39,10 +39,10 @@ The current service standard is to answer calls within 10 minutes.[2] This stand
 Trevor's stated wait times of 18-25 minutes align with 2022-23 data, which showed an average of 18 minutes.[2] During crisis periods, wait times have been significantly worse. Third-party sources note that "after any holiday, the call volume experiences a significant surge, with callers potentially facing extended wait times, sometimes exceeding 45 minutes."[4]
 
 **Accessibility Improvements:**
-"The EI Call Centre has improved its accessibility to be near 100% for callers accessing the queue to speak to an agent, compared to 50% in 2020-21."[1] This represents major progress in reducing blocked calls.
+"The Insurance Call Centre has improved its accessibility to be near 100% for callers accessing the queue to speak to an agent, compared to 50% in 2020-21."[1] This represents major progress in reducing blocked calls.
 
 **Historical Call Volume Data:**
-The 2019 Auditor General report noted that "the EI call centre received more than 25 million calls in the 2017–18 fiscal year."[5]
+The 2019 Auditor General report noted that "the Insurance call centre received more than 25 million calls in the 2017–18 fiscal year."[5]
 
 **Assessment:** Trevor's wait time estimates appear to reflect historical (2022-23) rather than current (2023-24) performance. The current data shows significant improvement, though peak period challenges likely persist. His estimate that 65-70% of calls are routine is plausible but not directly confirmed by available data.
 
@@ -59,7 +59,7 @@ The 2019 Auditor General report noted that "the EI call centre received more tha
 ### Supporting Evidence:
 
 **Parallel Federal Call Centre Issues (CRA 2024-25):**
-While specific EI call centre accuracy data is not publicly available, the Canada Revenue Agency (a parallel federal call centre operation) provides alarming evidence of systemic accuracy problems. The October 2024 Auditor General report found that CRA call centre "responses to general individual-tax questions were accurate only 17% of the time."[6] For business tax questions, accuracy was "just over 54% of the time."[6]
+While specific Insurance call centre accuracy data is not publicly available, the Canada Revenue Agency (a parallel federal call centre operation) provides alarming evidence of systemic accuracy problems. The October 2024 Auditor General report found that CRA call centre "responses to general individual-tax questions were accurate only 17% of the time."[6] For business tax questions, accuracy was "just over 54% of the time."[6]
 
 **Training Deficiencies:**
 The same Auditor General report revealed that "the CRA spent just 2,200 hours of coaching, feedback or training in 2024-25, which is under 30 minutes per agent annually."[6] Additionally, "less than nine per cent of agents' total performance evaluation score related to the accuracy of information they provided to callers."[6]
@@ -71,9 +71,9 @@ An independent Service Quality Review of EI operations found significant service
 While this data is from CRA, it indicates broader federal call centre challenges: "Customer complaints about the CRA have soared with a 145 per cent spike between 2021-22 and 2024-25."[6]
 
 **EI Earnings Rules Complexity (Supporting Trevor's Example):**
-Official ServiceX documentation confirms the complexity Trevor described. The actual rule is: "If you earn money while receiving EI benefits, you can keep 50 cents of your benefits for every dollar you earn, up to 90% of your previous weekly earnings (roughly 4 and a half days of work). Above this cap, your EI benefits are deducted dollar-for-dollar."[8] This is precisely the type of complex calculation Trevor cited as being frequently communicated incorrectly by agents.
+Official ServiceX documentation confirms the complexity Trevor described. The actual rule is: "If you earn money while receiving Insurance benefits, you can keep 50 cents of your benefits for every dollar you earn, up to 90% of your previous weekly earnings (roughly 4 and a half days of work). Above this cap, your Insurance benefits are deducted dollar-for-dollar."[8] This is precisely the type of complex calculation Trevor cited as being frequently communicated incorrectly by agents.
 
-**Assessment:** While specific EI call centre accuracy metrics are not publicly disclosed, the CRA data from the same government ecosystem strongly suggests similar challenges exist. The complexity of EI regulations combined with insufficient training (as evidenced by CRA) makes Trevor's accuracy concerns highly credible.
+**Assessment:** While specific Insurance call centre accuracy metrics are not publicly disclosed, the CRA data from the same government ecosystem strongly suggests similar challenges exist. The complexity of EI regulations combined with insufficient training (as evidenced by CRA) makes Trevor's accuracy concerns highly credible.
 
 ---
 
@@ -139,15 +139,15 @@ Historical data from a 2016 Service Quality Review found that "78% of EI respond
 ### Supporting Evidence:
 
 **Staffing Numbers:**
-As noted earlier, "approximately 2,625 officers remain from a pandemic high of over 3,000."[1] While Trevor stated 200 agents, the actual number is significantly higher across all EI call centres nationally, suggesting Trevor may have been referring to a specific region or site.
+As noted earlier, "approximately 2,625 officers remain from a pandemic high of over 3,000."[1] While Trevor stated 200 agents, the actual number is significantly higher across all Insurance call centres nationally, suggesting Trevor may have been referring to a specific region or site.
 
 **Call Volume:**
-"The EI call centre received more than 25 million calls in the 2017–18 fiscal year."[5] This translates to approximately 68,000 calls per day assuming 365-day operations, or 96,000+ calls per day for 260 business days. More recent data shows "the EI Call Centre answered approximately 6 million calls" in 2023-24,[2] suggesting volume has decreased post-pandemic.
+"The Insurance call centre received more than 25 million calls in the 2017–18 fiscal year."[5] This translates to approximately 68,000 calls per day assuming 365-day operations, or 96,000+ calls per day for 260 business days. More recent data shows "the Insurance Call Centre answered approximately 6 million calls" in 2023-24,[2] suggesting volume has decreased post-pandemic.
 
 **In-Person Requests:**
 "In 2023-24, ServiceX in-person staff completed over 1,270,000 EI-related service requests out of a total of over 11.1 million requests across all programs."[1]
 
-**Assessment:** Trevor's call volume estimates are conservative compared to national data, again suggesting he may be describing a regional operation rather than the entire national EI call centre.
+**Assessment:** Trevor's call volume estimates are conservative compared to national data, again suggesting he may be describing a regional operation rather than the entire national Insurance call centre.
 
 ---
 
@@ -166,7 +166,7 @@ Trevor mentioned "legacy mainframe systems for EI processing and some newer web-
 
 ## Research Limitations
 
-1. **Lack of EI-Specific Accuracy Data:** ServiceX does not publicly report detailed quality assurance metrics for EI call centres, requiring reliance on parallel CRA data as a proxy.
+1. **Lack of EI-Specific Accuracy Data:** ServiceX does not publicly report detailed quality assurance metrics for Insurance call centres, requiring reliance on parallel CRA data as a proxy.
 
 2. **Regional vs. National Data:** Trevor's numbers may reflect a specific regional call centre rather than national averages, which could explain discrepancies with official statistics.
 
@@ -190,7 +190,7 @@ Trevor mentioned "legacy mainframe systems for EI processing and some newer web-
 
 5. **Complexity and training gaps:** Official documentation confirms the regulatory complexity he described, and CRA evidence shows systemic underinvestment in agent training (<30 min/year).
 
-**Overall Assessment:** Trevor's characterization of EI call centre challenges is **credible and evidence-based**, though some metrics may be based on 2022-23 performance rather than the improved 2023-24 results. His concerns about sustainability, accuracy, and workforce challenges remain valid even in the context of recent improvements.
+**Overall Assessment:** Trevor's characterization of Insurance call centre challenges is **credible and evidence-based**, though some metrics may be based on 2022-23 performance rather than the improved 2023-24 results. His concerns about sustainability, accuracy, and workforce challenges remain valid even in the context of recent improvements.
 
 ---
 
@@ -202,15 +202,15 @@ Trevor mentioned "legacy mainframe systems for EI processing and some newer web-
 
 [3] CBC News. (2019). "Federal call centres dropped more than 3 million calls last year." April 2019. Available at: https://www.cbc.ca/news/politics/call-centre-employment-insurance-blocked-service-canada-ei-esdc-1.5091053
 
-[4] UnemploymentCanada.ca. "How to quickly speak to EI call centre agent." Available at: https://unemploymentcanada.ca/how-to-quickly-speak-to-ei-call-centre-agent/
+[4] UnemploymentCanada.ca. "How to quickly speak to Insurance call centre agent." Available at: https://unemploymentcanada.ca/how-to-quickly-speak-to-ei-call-centre-agent/
 
 [5] Office of the Auditor General of Canada. (2019). "Report 1—Call Centres." Spring 2019 Reports. Available at: https://www.oag-bvg.gc.ca/internet/English/parl_oag_201905_01_e_43338.html
 
 [6] Office of the Auditor General of Canada. (2024). "Canada Revenue Agency Contact Centres." Fall 2024 Reports. Available at: https://www.oag-bvg.gc.ca/internet/English/parl_oag_202510_01_e_44717.html
 
-[7] Employment and Social Development Canada. (2016). "Employment Insurance Service Quality Review Report: Making Citizens Central." Available at: https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/service-quality-review-report.html
+[7] Employment and Social Development Canada. (2016). "Insurance Service Quality Review Report: Making Citizens Central." Available at: https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/service-quality-review-report.html
 
-[8] Employment and Social Development Canada. "Employment Insurance – Working While on Claim." Available at: https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/working-while-claim.html
+[8] Employment and Social Development Canada. "Insurance – Working While on Claim." Available at: https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/working-while-claim.html
 
 [9] Salem Solutions. (2024). "Why Call Center Turnover Rate is Key KPI." February 2024. Available at: https://www.salemsolutions.com/2024/02/14/why-call-center-turnover-rate-most-important-kpi/
 
@@ -220,7 +220,7 @@ Trevor mentioned "legacy mainframe systems for EI processing and some newer web-
 
 [12] CBC News. (2019). "Federal call centres dropped more than 3 million calls last year." April 2019. Available at: https://www.cbc.ca/news/politics/call-centre-employment-insurance-blocked-service-canada-ei-esdc-1.5091053
 
-[13] Employment and Social Development Canada. (2016). "Employment Insurance Service Quality Review Report: Making Citizens Central - Client Satisfaction Data." Available at: https://www.canada.ca/content/dam/canada/employment-social-development/programs/ei/ei-list/reports/service-quality-review-report/service-quality-review-report-EN.pdf
+[13] Employment and Social Development Canada. (2016). "Insurance Service Quality Review Report: Making Citizens Central - Client Satisfaction Data." Available at: https://www.canada.ca/content/dam/canada/employment-social-development/programs/ei/ei-list/reports/service-quality-review-report/service-quality-review-report-EN.pdf
 
 ---
 

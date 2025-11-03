@@ -13,7 +13,7 @@
 
 ## Executive Summary
 
-Implement an AI-powered voice agent system to handle routine inquiries for ServiceX's Employment Insurance (EI) and Pensions/Guaranteed Income Supplement (OAS/GIS) call centres. The solution aims to dramatically reduce wait times (from 18-35 minutes to under 5 minutes), improve information accuracy (from 80-84% to 98%+), and enhance citizen satisfaction while maintaining dignified, accessible service for vulnerable populations.
+Implement an AI-powered voice agent system to handle routine inquiries for ServiceX's Insurance (EI) and Pensions/Guaranteed Income Supplement (OAS/GIS) call centres. The solution aims to dramatically reduce wait times (from 18-35 minutes to under 5 minutes), improve information accuracy (from 80-84% to 98%+), and enhance citizen satisfaction while maintaining dignified, accessible service for vulnerable populations.
 
 **Business Impact:**
 - **Volume:** 12,000-38,000 daily calls across both programs
@@ -29,7 +29,7 @@ Implement an AI-powered voice agent system to handle routine inquiries for Servi
 ### Current State Challenges
 
 #### 1. Unacceptable Wait Times
-**Employment Insurance (EI):**
+**Insurance (EI):**
 - Average wait time: 18-25 minutes (2022-23 baseline, improved to 1-4 minutes in 2023-24 with $574M investment)
 - Peak period wait times: 45-90+ minutes
 - Daily call volume: 15,000-20,000 calls (doubles during crises)
@@ -69,7 +69,7 @@ Implement an AI-powered voice agent system to handle routine inquiries for Servi
 
 ### High-Volume Routine Inquiries (65-75% of Total Calls)
 
-**Employment Insurance:**
+**Insurance:**
 - Application status inquiries
 - Payment date questions
 - Access code resets
@@ -142,7 +142,7 @@ Implement an AI-powered voice agent system to handle routine inquiries for Servi
 ---
 
 ### Persona 3: Stressed Parent - "Aisha"
-**Demographics:** 31 years old, on maternity/parental EI benefits
+**Demographics:** 31 years old, on maternity/parental Insurance benefits
 **Tech Comfort:** High; comfortable with all digital tools
 **Emotional State:** Time-stressed, needs efficiency
 **Needs:**
@@ -805,7 +805,7 @@ Implement an AI-powered voice agent system to handle routine inquiries for Servi
 - **Assistant Deputy Minister, ServiceX:** Budget authority and strategic approval
 
 ### Primary Stakeholders
-- **Trevor (Director, EI Call Centre Operations):** EI pilot owner, requirements definition
+- **Trevor (Director, Insurance Call Centre Operations):** EI pilot owner, requirements definition
 - **Brenda (Executive Director, OAS Contact Centre):** OAS pilot owner, senior accessibility champion
 - **PSAC Leadership:** Union buy-in, agent engagement, job security concerns
 - **Call Centre Agents (375+ staff):** End users, training recipients, change management
@@ -875,12 +875,12 @@ The following are explicitly **out of scope** for this epic and may be considere
 ## Appendices
 
 ### Appendix A: Research Sources
-- Employment Insurance Monitoring and Assessment Report 2024 (ESDC)
+- Insurance Monitoring and Assessment Report 2024 (ESDC)
 - Auditor General Report on Call Centres (Spring 2019)
 - Auditor General Report on CRA Contact Centres (Fall 2024)
 - Public Service Employee Survey 2024 (Statistics Canada)
 - Client interview transcripts: Trevor (EI), Brenda (OAS)
-- Research summaries: EI Call Centre Challenges, OAS Call Centre Challenges
+- Research summaries: Insurance Call Centre Challenges, OAS Call Centre Challenges
 
 ### Appendix B: Regulatory Framework
 - Privacy Act (R.S.C., 1985, c. P-21)
@@ -891,7 +891,7 @@ The following are explicitly **out of scope** for this epic and may be considere
 
 ### Appendix C: Contact Information
 - **Product Owner:** Stephanie (Product Manager) - stephanie@example.gc.ca
-- **EI Stakeholder:** Trevor (Director, EI Call Centre) - trevor@example.gc.ca
+- **EI Stakeholder:** Trevor (Director, Insurance Call Centre) - trevor@example.gc.ca
 - **OAS Stakeholder:** Brenda (Executive Director, OAS) - brenda@example.gc.ca
 - **Union Contact:** PSAC Local 70000 - callcentres@psac.ca
 

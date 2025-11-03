@@ -9,7 +9,7 @@
 
 **Stephanie:** Thanks for taking the time to meet with me today, Trevor. I understand you're exploring AI voice solutions for your call center. Can you start by telling me a bit about your current call center operations?
 
-**Trevor:** Of course. We operate a large contact center handling Employment Insurance inquiries for ServiceX. We have about 200 agents across multiple sites handling calls from Canadians applying for or receiving EI benefits. On a typical day, we're processing anywhere from 15,000 to 20,000 calls, but during high unemployment periods or major layoffs, that volume can easily double.
+**Trevor:** Of course. We operate a large contact center handling Insurance inquiries for ServiceX. We have about 200 agents across multiple sites handling calls from Canadians applying for or receiving Insurance benefits. On a typical day, we're processing anywhere from 15,000 to 20,000 calls, but during high unemployment periods or major layoffs, that volume can easily double.
 
 **Stephanie:** That's significant volume. What prompted you to start looking at AI voice agent solutions?
 

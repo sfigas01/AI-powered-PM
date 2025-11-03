@@ -42,7 +42,7 @@ The Auditor General's 2019 spring report on call centres found that "72% of call
 The 2019 Auditor General report noted that "the Canada Pension Plan and Pensions call centre received more than 8 million calls in the 2017–18 fiscal year."[4] Assuming 260 business days, this equals approximately **30,800 calls per day nationally**, making Brenda's claim of 12,000-18,000 daily calls for her three-site operation plausible as a regional subset.
 
 **Blocked and Abandoned Calls:**
-"The Employment and Social Development Canada call centres for Employment Insurance and for the Canada Pension Plan and Pensions sent millions of calls back to the automated system or told callers to go to the website or to call back later. Additionally, for more than a million calls that did get into a queue to wait for an agent, the callers gave up waiting and hung up."[4] This demonstrates extreme access challenges supporting Brenda's peak wait time claims.
+"The Employment and Social Development Canada call centres for Insurance and for the Canada Pension Plan and Pensions sent millions of calls back to the automated system or told callers to go to the website or to call back later. Additionally, for more than a million calls that did get into a queue to wait for an agent, the callers gave up waiting and hung up."[4] This demonstrates extreme access challenges supporting Brenda's peak wait time claims.
 
 **Performance Decline Over Time:**
 "National Scorecard data shows a decline in the percentage of Canada Pension Plan and Pensions calls answered by a Specialized Call Centre agent within the service standard of 10 minutes from 96% in March 2015 to 69.8% in March 2018, with an increase to 75.4% in fiscal year 2018 to 2019."[3] Even at the "improved" 75.4% rate, **one quarter of callers** were waiting longer than 10 minutes.
@@ -178,7 +178,7 @@ While specific data on OAS call centre agent stress is unavailable, Brenda's cha
 - Long wait times creating caller frustration before agents even answer
 
 **Staffing Numbers:**
-Brenda's claim of 180 agents is not directly verifiable from public sources. For context, the EI call centre has "approximately 2,625 officers"[13] nationally. The OAS/CPP combined call centre would likely have fewer agents given lower call volume (8 million calls/year for CPP/OAS vs. 25+ million for EI in historical data).
+Brenda's claim of 180 agents is not directly verifiable from public sources. For context, the Insurance call centre has "approximately 2,625 officers"[13] nationally. The OAS/CPP combined call centre would likely have fewer agents given lower call volume (8 million calls/year for CPP/OAS vs. 25+ million for EI in historical data).
 
 **Union Concerns:**
 "The Public Service Alliance of Canada (PSAC) has actively campaigned around call centre job security. In 2024, nearly 3,300 call centre workers have lost their jobs since May 2024, primarily affecting Canada Revenue Agency call centres."[14] This validates Brenda's concern about union sensitivity to AI implementation.
