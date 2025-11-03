@@ -13,7 +13,7 @@
 
 ## Executive Summary
 
-Implement an AI-powered voice agent system to handle routine inquiries for Service Canada's Employment Insurance (EI) and Old Age Security/Guaranteed Income Supplement (OAS/GIS) call centres. The solution aims to dramatically reduce wait times (from 18-35 minutes to under 5 minutes), improve information accuracy (from 80-84% to 98%+), and enhance citizen satisfaction while maintaining dignified, accessible service for vulnerable populations.
+Implement an AI-powered voice agent system to handle routine inquiries for Service Canada's Employment Insurance (EI) and Pensions/Guaranteed Income Supplement (OAS/GIS) call centres. The solution aims to dramatically reduce wait times (from 18-35 minutes to under 5 minutes), improve information accuracy (from 80-84% to 98%+), and enhance citizen satisfaction while maintaining dignified, accessible service for vulnerable populations.
 
 **Business Impact:**
 - **Volume:** 12,000-38,000 daily calls across both programs
@@ -35,7 +35,7 @@ Implement an AI-powered voice agent system to handle routine inquiries for Servi
 - Daily call volume: 15,000-20,000 calls (doubles during crises)
 - 200+ agents struggling to meet demand
 
-**Old Age Security/GIS (OAS):**
+**Pensions/GIS (OAS):**
 - Average wait time: 25-35 minutes
 - Peak period wait times: up to 120 minutes
 - Daily call volume: 12,000-18,000 calls
@@ -78,7 +78,7 @@ Implement an AI-powered voice agent system to handle routine inquiries for Servi
 - Benefit eligibility explanations
 - Reporting obligation procedures
 
-**Old Age Security/GIS:**
+**Pensions/GIS:**
 - Payment date inquiries
 - Benefit amount confirmations
 - Address updates

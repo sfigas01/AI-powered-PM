@@ -1,4 +1,4 @@
-# Research Summary: Old Age Security Call Centre Challenges
+# Research Summary: Pensions Call Centre Challenges
 ## Supporting Evidence for Service Canada OAS/GIS Call Centre Pain Points
 
 **Researcher:** AI Research Assistant
@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-This research provides **partial validation** of Brenda's claims about Old Age Security and Guaranteed Income Supplement call centre challenges. While specific OAS call centre data is limited in public records, **historical Auditor General reports and parallel federal call centre evidence strongly support her concerns** about wait times and service quality. The demographic characteristics of OAS beneficiaries (seniors averaging age 65+) and program complexity (quarterly threshold updates, multiple benefit types) are well-documented, lending credibility to Brenda's operational challenges.
+This research provides **partial validation** of Brenda's claims about Pensions and Guaranteed Income Supplement call centre challenges. While specific OAS call centre data is limited in public records, **historical Auditor General reports and parallel federal call centre evidence strongly support her concerns** about wait times and service quality. The demographic characteristics of OAS beneficiaries (seniors averaging age 65+) and program complexity (quarterly threshold updates, multiple benefit types) are well-documented, lending credibility to Brenda's operational challenges.
 
 **Key limitation:** Unlike EI data, Service Canada does not publish detailed OAS-specific call centre performance metrics publicly, requiring reliance on combined CPP/OAS data and historical reports.
 
@@ -36,16 +36,16 @@ The Auditor General's 2019 spring report on call centres found that "72% of call
 "Service Canada's Canada Pension Plan call centre has a service standard to answer calls within 10 minutes."[3] The consistent gap between this 10-minute standard and actual performance (24 minutes in 2021-22) validates Brenda's concerns.
 
 **Declining Performance (2015-2018):**
-"National Scorecard data showed a general decrease in the percentage of Canada Pension Plan and Old Age Security calls that get through to a call centre agent from 77.09% in fiscal year 2014 to 2015 to 68.2% in fiscal year 2018 to 2019."[2] This represents a **9 percentage point decline** in call accessibility over four years.
+"National Scorecard data showed a general decrease in the percentage of Canada Pension Plan and Pensions calls that get through to a call centre agent from 77.09% in fiscal year 2014 to 2015 to 68.2% in fiscal year 2018 to 2019."[2] This represents a **9 percentage point decline** in call accessibility over four years.
 
 **Call Volume Context:**
-The 2019 Auditor General report noted that "the Canada Pension Plan and Old Age Security call centre received more than 8 million calls in the 2017–18 fiscal year."[4] Assuming 260 business days, this equals approximately **30,800 calls per day nationally**, making Brenda's claim of 12,000-18,000 daily calls for her three-site operation plausible as a regional subset.
+The 2019 Auditor General report noted that "the Canada Pension Plan and Pensions call centre received more than 8 million calls in the 2017–18 fiscal year."[4] Assuming 260 business days, this equals approximately **30,800 calls per day nationally**, making Brenda's claim of 12,000-18,000 daily calls for her three-site operation plausible as a regional subset.
 
 **Blocked and Abandoned Calls:**
-"The Employment and Social Development Canada call centres for Employment Insurance and for the Canada Pension Plan and Old Age Security sent millions of calls back to the automated system or told callers to go to the website or to call back later. Additionally, for more than a million calls that did get into a queue to wait for an agent, the callers gave up waiting and hung up."[4] This demonstrates extreme access challenges supporting Brenda's peak wait time claims.
+"The Employment and Social Development Canada call centres for Employment Insurance and for the Canada Pension Plan and Pensions sent millions of calls back to the automated system or told callers to go to the website or to call back later. Additionally, for more than a million calls that did get into a queue to wait for an agent, the callers gave up waiting and hung up."[4] This demonstrates extreme access challenges supporting Brenda's peak wait time claims.
 
 **Performance Decline Over Time:**
-"National Scorecard data shows a decline in the percentage of Canada Pension Plan and Old Age Security calls answered by a Specialized Call Centre agent within the service standard of 10 minutes from 96% in March 2015 to 69.8% in March 2018, with an increase to 75.4% in fiscal year 2018 to 2019."[3] Even at the "improved" 75.4% rate, **one quarter of callers** were waiting longer than 10 minutes.
+"National Scorecard data shows a decline in the percentage of Canada Pension Plan and Pensions calls answered by a Specialized Call Centre agent within the service standard of 10 minutes from 96% in March 2015 to 69.8% in March 2018, with an increase to 75.4% in fiscal year 2018 to 2019."[3] Even at the "improved" 75.4% rate, **one quarter of callers** were waiting longer than 10 minutes.
 
 **Assessment:** Brenda's wait time estimates are **strongly validated by 2021-22 data** (24 min average) and historical trends showing deteriorating performance. Her peak wait time claim of 2 hours is plausible given millions of blocked/abandoned calls and seasonal spikes during GIS renewal periods.
 
@@ -72,7 +72,7 @@ The Auditor General found that "the CRA spent just 2,200 hours of coaching, feed
 
 **Multiple Benefit Types:**
 Official Service Canada documentation confirms the complex program structure Brenda described:
-- Old Age Security (OAS) pension for seniors 65+
+- Pensions (OAS) pension for seniors 65+
 - Guaranteed Income Supplement (GIS) for low-income OAS recipients
 - Allowance for 60-64 year olds with low income married to GIS recipients
 - Allowance for the Survivor for 60-64 year old widows/widowers with low income[6]
@@ -132,12 +132,12 @@ The existence of these extensive accessibility accommodations validates Brenda's
 ### Supporting Evidence:
 
 **Historical Service Standard Performance:**
-"National Scorecard data shows a decline in the percentage of Canada Pension Plan and Old Age Security calls answered by a Specialized Call Centre agent within the service standard of 10 minutes from 96% in March 2015 to 69.8% in March 2018, with an increase to 75.4% in fiscal year 2018 to 2019."[3]
+"National Scorecard data shows a decline in the percentage of Canada Pension Plan and Pensions calls answered by a Specialized Call Centre agent within the service standard of 10 minutes from 96% in March 2015 to 69.8% in March 2018, with an increase to 75.4% in fiscal year 2018 to 2019."[3]
 
 Even at the improved 2018-19 rate of 75.4%, this is **below the 80-85% target** Brenda referenced, supporting her claim that Service Canada struggles to meet service standards.
 
 **Declining Access:**
-"National Scorecard data showed a general decrease in the percentage of Canada Pension Plan and Old Age Security calls that get through to a call centre agent from 77.09% in fiscal year 2014 to 2015 to 68.2% in fiscal year 2018 to 2019."[2]
+"National Scorecard data showed a general decrease in the percentage of Canada Pension Plan and Pensions calls that get through to a call centre agent from 77.09% in fiscal year 2014 to 2015 to 68.2% in fiscal year 2018 to 2019."[2]
 
 Brenda's claim of hitting 58% currently represents a **further 10 percentage point decline** from 2018-19, which is plausible given post-pandemic pressures and call volume increases.
 
@@ -283,11 +283,11 @@ OAS/GIS data includes Social Insurance Numbers, financial information, and perso
 
 [5] Office of the Auditor General of Canada. (2024). "Canada Revenue Agency Contact Centres." Fall 2024 Reports. Available at: https://www.oag-bvg.gc.ca/internet/English/parl_oag_202510_01_e_44717.html
 
-[6] Employment and Social Development Canada. "Old Age Security." Available at: https://www.canada.ca/en/services/benefits/publicpensions/old-age-security.html
+[6] Employment and Social Development Canada. "Pensions." Available at: https://www.canada.ca/en/services/benefits/publicpensions/old-age-security.html
 
 [7] Various sources. (2024). "Guaranteed Income Supplement Changes in Canada 2024." Available at: https://wowa.ca/guaranteed-income-supplement
 
-[8] Eirene. "Managing Old Age Security (OAS) Benefits After Death in Canada." Available at: https://eirene.ca/articles/navigating-old-age-security-benefits-after-death-what-executors-need-to-know
+[8] Eirene. "Managing Pensions (OAS) Benefits After Death in Canada." Available at: https://eirene.ca/articles/navigating-old-age-security-benefits-after-death-what-executors-need-to-know
 
 [9] Employment and Social Development Canada. (2024). "Employment and Social Development Canada's 2023 to 2024 Departmental results report." Available at: https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-results/2023-2024.html
 

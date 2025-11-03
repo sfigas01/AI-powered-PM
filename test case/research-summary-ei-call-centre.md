@@ -27,7 +27,7 @@ This research validates the two core challenges identified in Trevor's interview
 According to the official EI Monitoring and Assessment Report 2024, "In 2023-24, as of June 16, 2023, the EI Call Centre answered over 1,100,000 calls with an average annual wait time of 1 minute, compared to an average of 18 minutes for 2022-23."[1] The report further states that "the EI Call Centre answered approximately 6 million calls with an average wait time of 4 minutes, compared to an average of 18 minutes for the same period in 2022–23."[2]
 
 **Government Investment:**
-"On November 3, 2022, the Fall Economic Statement announced $1.02B for Service Canada to process EI and Old Age Security claims faster, while reducing the EI claim inventory. In addition, $574M was announced to reduce the EI and Pensions Call Centre wait times."[1] This significant investment has led to measurable improvements.
+"On November 3, 2022, the Fall Economic Statement announced $1.02B for Service Canada to process EI and Pensions claims faster, while reducing the EI claim inventory. In addition, $574M was announced to reduce the EI and Pensions Call Centre wait times."[1] This significant investment has led to measurable improvements.
 
 **Staffing Increases:**
 "Approximately 2,625 officers remain from a pandemic high of over 3,000, which is still more than double the number of agents prior to the pandemic, and will be moving to approximately 2,450 officers for 2023-24."[1] This represents a substantial increase in call centre capacity.

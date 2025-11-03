@@ -1,4 +1,4 @@
-# Client Discovery Interview Transcript - Old Age Security
+# Client Discovery Interview Transcript - Pensions
 
 **Date:** October 22, 2024
 **Client:** Brenda, Executive Director of OAS Contact Centre Operations, Service Canada
@@ -7,9 +7,9 @@
 
 ---
 
-**Stephanie:** Thank you for meeting with me today, Brenda. I understand you're exploring AI voice solutions for the Old Age Security contact centre. Can you tell me about your current operations?
+**Stephanie:** Thank you for meeting with me today, Brenda. I understand you're exploring AI voice solutions for the Pensions contact centre. Can you tell me about your current operations?
 
-**Brenda:** Absolutely. We run the contact centre for Old Age Security and the Guaranteed Income Supplement programs. We have about 180 agents distributed across three main sites. We handle approximately 12,000 to 18,000 calls daily, though that volume spikes significantly around certain times - like when we do the annual GIS renewal period, or when there are changes to benefit amounts. We also see massive spikes when there's public confusion about policy changes or when media coverage prompts concerns.
+**Brenda:** Absolutely. We run the contact centre for Pensions and the Guaranteed Income Supplement programs. We have about 180 agents distributed across three main sites. We handle approximately 12,000 to 18,000 calls daily, though that volume spikes significantly around certain times - like when we do the annual GIS renewal period, or when there are changes to benefit amounts. We also see massive spikes when there's public confusion about policy changes or when media coverage prompts concerns.
 
 **Stephanie:** That's substantial volume. What's driving your interest in AI voice technology?
 
