@@ -2,6 +2,10 @@
   "mcpServers": {
     "notion": {
       "url": "https://mcp.notion.com/mcp"
+    },
+    "azure-devops": {
+      "command": "npx",
+      "args": ["-y", "@azure-devops/mcp", "stephaniefigas"]
     }
   }
 }

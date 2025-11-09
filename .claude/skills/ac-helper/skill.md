@@ -110,6 +110,30 @@ When providing recommendations or new acceptance criteria:
 4. **Rationale**: Why each criterion matters and how it aligns with best practices
 5. **Questions for User**: Specific questions to validate and refine
 
+## Azure DevOps (ADO) Integration
+
+When transferring acceptance criteria to Azure DevOps work items:
+
+- **Use the Description field** (`System.Description`) not the separate Acceptance Criteria field
+- Format acceptance criteria in HTML as a bulleted list within the description
+- Structure the description to include:
+  - Existing description content (Feature Owner, Business Value, Outcome, etc.)
+  - A new section with heading "Feature Acceptance Criteria:" or "Acceptance Criteria:"
+  - Bulleted list of criteria in `<ul><li>` HTML format
+- Use the PATCH operation with the ADO REST API to update the description field
+- Example format:
+  ```html
+  <p><strong>Feature Owner:</strong> [Team Name]<br>
+  <strong>Business Value:</strong> [Value statement]<br>
+  <strong>Outcome:</strong> [Expected outcome]</p>
+  <h3>Feature Acceptance Criteria:</h3>
+  <ul>
+  <li>[Criterion 1]</li>
+  <li>[Criterion 2]</li>
+  <li>[Criterion 3]</li>
+  </ul>
+  ```
+
 ## Interaction Style
 
 - **Always engage with the user** - don't just generate criteria in isolation
