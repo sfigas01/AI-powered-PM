@@ -29,6 +29,18 @@
 **Business Value:** Validate that citizens and agents actually want/need AI voice agents
 **Outcome:** Evidence-based understanding of user needs, pain points, and design requirements
 
+**Feature Acceptance Criteria:**
+- Citizen research completed with representative samples from both EI claimants (15-20 participants) and OAS/GIS seniors (15-20 participants) covering diverse demographics
+- Call centre agent research completed (10-15 participants) with documented insights on workflow needs and AI impact concerns
+- Quantitative analysis delivered showing call volumes, types, and AI deflection opportunity sizing (target: 65-75% of calls suitable for AI)
+- User personas created and validated (3-5 for citizens, agent workflow profiles documented)
+- Prototype testing completed with validated interaction scripts and design requirements documented
+- Competitive analysis report delivered with lessons learned from 5-10 government AI implementations
+- Citizen receptiveness to AI quantified with statistical confidence
+- Top user needs and "jobs to be done" identified and prioritized with supporting evidence
+- All research findings synthesized and presented to Executive Director with actionable design recommendations
+- Executive Director accepts research as sufficient to inform PRD development
+
 ## Stories
 
 ### Story F1.1: Conduct Citizen Persona Research (EI Claimants)
@@ -194,6 +206,21 @@
 **Business Value:** Prove the business case justifies investment and delivers ROI
 **Outcome:** Validated business case with financial model and executive buy-in
 
+**Feature Acceptance Criteria:**
+- Financial model completed with 5-year projections including all implementation costs, recurring costs, and savings
+- ROI calculated with payback period, NPV, and sensitivity analysis documented
+- Business impact quantified across all key metrics:
+  - Service standard improvement (baseline vs. projected)
+  - Citizen satisfaction improvement (baseline vs. projected)
+  - Error reduction impact (current vs. projected error rates)
+  - Agent satisfaction and retention impact
+- Non-financial value quantified (political/reputational value, MP inquiry reduction)
+- Executive stakeholder engagement completed with documented feedback from DM, ADM, Directors, and CFO
+- Union engagement completed with PSAC leadership alignment on pilot approach and no-layoff commitment
+- Formal executive approval obtained (written authorization to proceed to pilot)
+- Business case demonstrates clear ROI that justifies investment
+- Executive Director accepts business case as sufficient for budget approval
+
 ## Stories
 
 ### Story F2.1: Build Financial Model - Costs & Savings
@@ -297,6 +324,22 @@
 **Feature Owner:** Innovation Team
 **Business Value:** Prove the solution is technically achievable with existing systems
 **Outcome:** Validated technical architecture and integration approach
+
+**Feature Acceptance Criteria:**
+- Legacy system integration assessment completed with documented capabilities, constraints, and risks for all critical systems (EI mainframe, OAS database, telephony, CRM, identity management)
+- AI platform vendor evaluation completed with RFI responses from 5-8 vendors and comparison scorecard delivered
+- Preferred vendor recommendation provided (1-2 vendors) with supporting rationale
+- Proof of Concept demonstrated showing successful end-to-end integration:
+  - Authentication flow validated
+  - Data retrieval from test systems confirmed
+  - Voice interaction quality verified
+  - Performance targets met (response latency <1s, data retrieval <2s)
+  - Bilingual capability validated
+- Technical risks identified with documented mitigation strategies
+- Data quality assessment completed with gaps identified and remediation plan defined
+- Data governance requirements documented (ownership, refresh schedules, retention)
+- PoC findings demonstrate technical feasibility with acceptable risk profile
+- Executive Director accepts technical approach as viable for implementation
 
 ## Stories
 
@@ -435,6 +478,22 @@
 **Business Value:** Ensure solution meets legal, ethical, privacy, and responsible AI standards
 **Outcome:** Complete governance framework and compliance roadmap
 
+**Feature Acceptance Criteria:**
+- Algorithmic Impact Assessment (AIA) completed per Treasury Board Directive on Automated Decision-Making with impact level determined and bias mitigation strategies documented
+- Responsible AI testing completed with documented fairness metrics across demographics (language, age, disability, gender/accent)
+- AI ethics review board composition and process defined
+- Privacy Impact Assessment (PIA) completed and approved by Office of the Privacy Commissioner with all feedback addressed
+- Security Assessment & Authorization (SA&A) completed with Security Authorization to Operate (ATO) obtained
+- Threat and Risk Assessment (TRA) completed with documented security controls and mitigation strategies
+- Legal and regulatory compliance analysis completed covering:
+  - Official Languages Act compliance approach defined
+  - Accessibility compliance (AODA, WCAG 2.1 AA) validated
+  - EI Act and OAS Act authority confirmed with legal counsel
+  - Liability and accountability framework established
+- All compliance documentation approved by legal counsel (written sign-off)
+- Governance framework demonstrates full compliance with all applicable laws and regulations
+- Executive Director accepts governance approach as meeting all compliance requirements
+
 ## Stories
 
 ### Story F4.1: Responsible AI Assessment - Algorithmic Bias & Fairness
@@ -566,6 +625,23 @@
 **Feature Owner:** Innovation Team
 **Business Value:** Ensure organization is ready to adopt AI at enterprise scale
 **Outcome:** Architecture design, change management plan, and readiness assessment
+
+**Feature Acceptance Criteria:**
+- Enterprise architecture design completed with high-level solution architecture documented (AI platform, integration, data, security, monitoring layers)
+- Architecture diagrams created (logical and physical) and aligned with ESDC enterprise architecture standards
+- Scalability and high availability requirements defined (concurrent call capacity, disaster recovery)
+- Reusability approach documented for other ServiceX programs (CPP, disability)
+- Change management plan completed including:
+  - Change impact assessment across all affected roles
+  - Agent redeployment strategy with timeline (phased over 18 months)
+  - Training program designed with curriculum and materials
+  - Communication plan defined (executive, agent, union, citizen-facing)
+- Operational readiness assessment completed with gaps identified and remediation plan defined
+- Service Level Agreements (SLAs) defined for AI platform (uptime, latency, accuracy thresholds)
+- Monitoring dashboard design completed with KPIs defined and wireframes/mockups created
+- Change adoption success metrics established
+- Organization demonstrated readiness to adopt AI at enterprise scale
+- Executive Director accepts adoption plan as comprehensive and achievable
 
 ## Stories
 
@@ -699,6 +775,26 @@
 **Feature Owner:** Innovation Team
 **Business Value:** Complete handoff package for solution train to build
 **Outcome:** Production-ready PRD, business case, and adoption plan
+
+**Feature Acceptance Criteria:**
+- Comprehensive PRD (version 1.0) completed synthesizing all research from Features 1-5 with all required sections:
+  - Executive summary, business case, and ROI
+  - User research findings and personas
+  - Functional and non-functional requirements
+  - Technical architecture and integration requirements
+  - Governance and compliance requirements
+  - Success metrics and KPIs
+  - Pilot plan and rollout phases
+  - Risks and mitigation strategies
+- All appendices attached (research reports, financial model, technical assessments, PIA/SA&A, vendor recommendation)
+- PRD reviewed by executive stakeholders with feedback incorporated
+- Executive business case finalized with formal budget approval obtained (signed authorization for $2.5M one-time, $975K annual)
+- Handoff sessions completed with solution train teams (Product Owner, Technical, Governance, UX)
+- All handoff artifacts delivered to solution train (PRD, business case, research reports, architecture diagrams, compliance docs, change plan)
+- Solution train acceptance of handoff confirmed (written sign-off)
+- Transition plan established with innovation team role during build phase defined
+- PRD is production-ready and provides sufficient detail for solution train to begin implementation
+- Executive Director accepts PRD and handoff as complete
 
 ## Stories
 
