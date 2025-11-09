@@ -1,0 +1,7 @@
+{
+  "name": "ac-helper",
+  "description": "Review existing acceptance criteria or collaboratively write new acceptance criteria for SAFe features, stories, and enablers. Provides expert guidance on best practices while engaging with the user to ensure relevance and testability.",
+  "version": "1.0.0",
+  "tags": ["safe", "acceptance-criteria", "agile", "stories", "features", "enablers", "research"],
+  "author": "AI-powered-PM Project"
+}
