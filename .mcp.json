@@ -1,7 +1,8 @@
 {
   "mcpServers": {
     "notion": {
-      "url": "https://mcp.notion.com/mcp"
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-notion"]
     },
     "azure-devops": {
       "command": "npx",
