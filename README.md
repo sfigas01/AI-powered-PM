@@ -16,37 +16,6 @@ This repo serves as a workspace and showcase for using AI to:
 
 By using AI for these tasks, this project explores how product management workflows can be enhanced, accelerated, and made more efficient through artificial intelligence.
 
-## Getting Started
-
-### Prerequisites
-
-- [Claude Code CLI](https://claude.com/claude-code) installed
-- Node.js and npm installed
-- Access to Notion (for epic creation)
-- Access to Azure DevOps (for work item management)
-
-### Setup
-
-**IMPORTANT**: Before using this repository, you must configure authentication for the MCP servers.
-
-See **[SETUP.md](./SETUP.md)** for detailed instructions on:
-- Getting your Notion API key
-- Creating an Azure DevOps Personal Access Token
-- Configuring your `.env` file
-- Verifying your setup works
-- Troubleshooting common issues
-
-**Quick Start**:
-```bash
-# 1. Copy the environment template
-cp .env.example .env
-
-# 2. Edit .env and add your API keys
-# Follow SETUP.md for detailed instructions on obtaining keys
-
-# 3. Start using Claude Code in this directory
-```
-
 ## What I've Proven
 
 This project demonstrates an end-to-end AI-assisted product management workflow, from research to delivery. Here's what's been validated:
