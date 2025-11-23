@@ -8,6 +8,238 @@ This environmental scan evaluates AI agent platforms and frameworks specifically
 
 ---
 
+## Build vs Buy vs Configure: Complete Tooling Landscape
+
+This section provides a comprehensive scan of available tools organized by implementation approach. Use this to inform your "build it ourselves" vs "buy a platform" vs "configure existing tools" decision.
+
+### BUILD: Code-First Frameworks (Custom Development)
+
+**Agent Orchestration Frameworks**
+- **LangChain** (Python/TypeScript): Most mature ecosystem, extensive tool-calling, agent templates, retrievers, chains
+  - Hosted: LangSmith (observability), LangGraph Cloud (deployment)
+  - Best for: Custom workflows, complex integrations
+- **LlamaIndex**: Data connector focus, retrieval-augmented generation (RAG), agent reasoning
+  - Works with: OpenAI, Anthropic, local models, Azure OpenAI
+  - Best for: Document-heavy adjudication (medical records, evidence)
+- **Haystack**: Production-focused pipelines, retrieval, NLP, tool-calling
+  - Best for: Enterprise deployment, complex data pipelines
+- **Semantic Kernel** (.NET/TypeScript): Microsoft's orchestration framework, planner, skills/plugins
+  - Best for: .NET shops, Microsoft ecosystem integration
+- **AutoGen / CrewAI**: Multi-agent coordination, role-based agents, conversation patterns
+  - Best for: Complex workflows with specialized agents (document reviewer, fraud checker, policy interpreter)
+
+**Structured Output & Prompting**
+- **DSPy**: Programming model for prompts, optimizers, signatures
+- **Guidance** (Microsoft): Grammar-based generation, constrained output
+- **Marvin**: Type-safe AI functions, structured extraction
+- **Instructor**: Pydantic-based structured outputs, validation
+- **Outlines**: Structured text generation with regex/JSON schema constraints
+
+**Model Hosting & Inference**
+- **vLLM**: High-throughput LLM serving, optimized inference
+- **Ollama**: Local model deployment, easy self-hosting
+- **HuggingFace Transformers/Inference API**: Open model ecosystem, deployment
+- **TGI (Text Generation Inference)**: Production LLM serving by HuggingFace
+- **Ray Serve / BentoML**: ML model serving frameworks
+
+**Foundation Model APIs (Build on top of these)**
+- **OpenAI** (GPT-4, GPT-4 Turbo): Function calling, assistants API, tools
+- **Anthropic Claude** (Sonnet, Opus): Tool use, long context, constitutional AI
+- **Cohere**: Command R+, retrieval, tool use
+- **Google Gemini**: Multimodal, function calling, long context
+- **Azure OpenAI Service**: Enterprise OpenAI with Microsoft compliance (FedRAMP)
+- **AWS Bedrock**: Multi-model access (Claude, Titan, Jurassic), agents API
+
+**Supporting Infrastructure**
+- **Vector Databases**: Pinecone, Qdrant, Weaviate, Milvus, Chroma, Postgres+pgvector
+- **Graph Databases**: Neo4j, Amazon Neptune (for relationship mapping in cases)
+- **Workflow Engines**: Temporal, Prefect, Airflow (for orchestrating adjudication pipelines)
+
+**Evaluation & Testing**
+- **Ragas**: RAG evaluation metrics
+- **DeepEval**: LLM app testing, evaluation metrics
+- **PromptFoo**: Prompt testing and comparison
+- **LangSmith Evals**: Integrated evaluation tools
+
+**Guardrails & Safety**
+- **Guardrails AI**: Validate LLM outputs, PII detection, bias checking
+- **NeMo Guardrails**: NVIDIA's runtime guardrails, dialog management
+- **LlamaGuard**: Meta's content moderation model
+- **Rebuff**: Prompt injection detection
+- **Microsoft Azure AI Content Safety**: Content filtering for Azure deployments
+
+**Observability & Monitoring**
+- **LangSmith**: LangChain's tracing, debugging, testing
+- **W&B (Weights & Biases)**: Experiment tracking, model monitoring
+- **Phoenix (Arize)**: LLM observability, tracing, evaluation
+- **Helicone**: OpenAI API monitoring, caching, rate limiting
+- **LangFuse**: Open-source LLM observability
+
+---
+
+### CONFIGURE: Low-Code Orchestration Platforms
+
+**Visual Workflow Builders**
+- **Flowise**: Open-source UI for LangChain, drag-and-drop agents
+- **Dust.tt**: AI app builder, data connectors, agent orchestration
+- **Vellum**: Prompt engineering platform, workflow builder, model comparison
+- **Humanloop**: Prompt management, evaluation, fine-tuning
+- **Relevance AI**: Build AI workflows, chain tools, no-code deployment
+- **Superagent**: Open-source AI assistant framework, tool integration
+
+**Automation & Integration Platforms**
+- **n8n**: Open-source workflow automation, 400+ integrations, AI nodes
+- **Zapier Interfaces + AI Actions**: Connect AI to 5000+ apps, conversational interfaces
+- **Make** (Integromat): Visual automation, API integration, AI modules
+- **Pipedream**: Developer-focused workflows, code + low-code, serverless
+- **Parabola**: Data workflow automation, API connectors, AI transformation
+- **Retool AI**: Build internal tools, AI actions, database integration
+
+**Enterprise Development Platforms**
+- **Appian**: Low-code BPM, process automation, AI/ML integration, case management
+- **Mendix**: Low-code app development, AI-assisted building, enterprise integration
+- **OutSystems**: Low-code platform, AI mentor, enterprise deployment
+- **ServiceNow App Engine**: Workflow apps on ServiceNow platform
+
+**Cloud Provider AI Orchestration**
+- **Google Vertex AI Workbench**: Notebooks, pipelines, agent builder, managed services
+- **Azure AI Studio**: Model catalog, prompt flow, evaluation, deployment
+- **AWS Bedrock Agents**: Pre-built agent framework, knowledge bases, action groups
+- **IBM watsonx Orchestrate**: Skill orchestration, automation, conversational AI
+
+**Observability & Operations Tools**
+- **AgentOps**: Agent-specific monitoring, session replay, compliance logging
+- **PromptLayer**: Prompt management, versioning, analytics
+- **Martian**: LLM gateway, model routing, cost optimization
+- **Galileo**: LLM observability, guardrails, evaluation
+
+---
+
+### BUY: No-Code / SaaS Agent Platforms
+
+**Conversational AI Platforms**
+- **OpenAI GPTs**: Custom chatbots, function calling, knowledge bases (requires ChatGPT Enterprise)
+- **Anthropic Workbench**: Claude-based applications (emerging)
+- **Cognosys**: Autonomous AI agents for research and task completion
+- **Lindy.ai**: AI employees for various tasks
+- **Relevance AI**: Pre-built AI workforce templates
+
+**Enterprise Customer Service & Operations**
+- **Intercom Fin**: AI customer support, resolution bot, workflow automation
+- **Drift**: Conversational AI, qualification, handoff to humans
+- **Forethought**: AI for customer support, case routing, knowledge base
+- **Moveworks**: IT helpdesk automation, employee support
+- **Ada**: Customer service automation, no-code builder
+- **Kore.ai**: Enterprise conversational AI, banking/government focus
+- **Yellow.ai**: Multi-channel automation, voice + chat
+- **Zendesk AI**: Support automation, agent assistance
+
+**Productivity & Collaboration Suites**
+- **Microsoft Copilot** (M365): Agents in Teams, SharePoint, Office apps
+- **Google Workspace Duet AI**: Gmail, Docs, Sheets assistance
+- **Notion AI**: Document assistance, Q&A over knowledge base
+- **ClickUp AI**: Project management assistance, task automation
+- **Slack AI**: Search, summarization, workflow automation
+- **Salesforce Einstein / Agentforce**: CRM-embedded AI agents
+
+**Government-Specific Platforms**
+- **Salesforce Government Cloud**: FedRAMP High, public sector CRM + AI
+- **ServiceNow Government Platform**: IT service management, case management, AI
+- **Appian Government**: Low-code BPM for government, FedRAMP authorized
+- **Unqork**: No-code for government applications, complex form automation
+- **Pega Government**: Case management, decisioning, customer service
+
+**Specialized AI Agents**
+- **Harvey**: Legal AI, document review, research (could adapt for policy/regulation review)
+- **Glean**: Enterprise search, knowledge discovery
+- **Writer**: Compliance-focused content generation
+- **Jasper**: Marketing content (less relevant for adjudication)
+
+---
+
+### SUPPORTING ECOSYSTEM TOOLS
+
+**Data Infrastructure**
+- **Vector Databases**: Pinecone (managed), Qdrant (open), Weaviate (hybrid), Milvus (open), Chroma (embedded)
+- **Graph Databases**: Neo4j, AWS Neptune, Azure Cosmos DB (for case relationships)
+- **Feature Stores**: Tecton, Feast, AWS Feature Store (for ML model features)
+- **Data Catalogs**: Alation, Collibra, Apache Atlas (for data governance)
+
+**Integration & API Tools**
+- **MuleSoft**: Enterprise API integration platform
+- **Apigee**: API management, rate limiting, security
+- **Kong**: API gateway, plugins for AI models
+- **Tray.io**: Integration platform as a service (iPaaS)
+
+**RPA (Robotic Process Automation) - For Legacy System Integration**
+- **Playwright / Selenium**: Browser automation for web-based legacy systems
+- **UiPath**: Enterprise RPA, AI-powered automation
+- **Automation Anywhere**: RPA platform with AI integration
+- **Blue Prism**: Enterprise RPA, process intelligence
+
+**Compliance & Security**
+- **OneTrust**: Privacy management, consent, data governance
+- **BigID**: Data discovery, PII detection, privacy automation
+- **Drata / Vanta**: Compliance automation (SOC 2, ISO 27001)
+- **Securiti**: Privacy, security, governance for AI systems
+
+---
+
+## Decision Framework: Build vs Buy vs Configure
+
+### Choose BUILD (Code-First) If:
+- ✅ Unique workflow requirements not available in platforms
+- ✅ Need deep integration with complex legacy systems
+- ✅ Have strong development team (5+ engineers)
+- ✅ Require full control over decision logic for auditability
+- ✅ On-premises deployment required
+- ✅ Long-term (3+ years) investment horizon
+- ✅ High volume justifies custom optimization
+
+**Typical Stack**: LangChain + Azure OpenAI + Pinecone + LangSmith + Custom UI
+**Investment**: $2M-5M initial, $500K-1M annual
+**Timeline**: 12-18 months to production
+
+### Choose CONFIGURE (Low-Code) If:
+- ✅ Standard workflows with some customization needed
+- ✅ Moderate technical capacity (2-3 engineers + citizen developers)
+- ✅ Need faster time to value (6-9 months)
+- ✅ Want balance of flexibility and speed
+- ✅ Comfortable with platform lock-in to proven vendors
+- ✅ Cloud deployment acceptable with FedRAMP certification
+
+**Typical Stack**: Appian/ServiceNow + AI Module + Integration Tools
+**Investment**: $500K-1.5M initial, $200K-400K annual
+**Timeline**: 6-9 months to production
+
+### Choose BUY (No-Code SaaS) If:
+- ✅ Standard use cases (citizen Q&A, document classification)
+- ✅ Limited technical resources (0-1 engineer)
+- ✅ Need rapid deployment (3-6 months)
+- ✅ Smaller scale (municipal, single program)
+- ✅ Willing to accept platform limitations
+- ✅ SaaS deployment acceptable
+
+**Typical Stack**: Salesforce Government Cloud or ServiceNow + Native AI
+**Investment**: $100K-500K initial, $50K-150K annual
+**Timeline**: 3-6 months to production
+
+### Hybrid Approach (Most Common)
+Most successful implementations use a **layered approach**:
+- **BUY**: Enterprise platform for case management, workflows, user interface (Salesforce, ServiceNow)
+- **CONFIGURE**: Low-code AI orchestration on top (Vertex AI, Azure AI Studio)
+- **BUILD**: Custom agents for unique government requirements (policy interpretation, fraud detection)
+- **INTEGRATE**: Connect to legacy systems via APIs, RPA, or custom connectors
+
+**Example Stack**:
+- ServiceNow Government Platform (case management)
+- + Azure AI Studio (agent orchestration)
+- + Custom LangChain agents (policy/regulation expertise)
+- + RPA (legacy system data extraction)
+- + Guardrails AI (PII protection, bias monitoring)
+
+---
+
 ## Current State: AI in Government Benefits Adjudication
 
 ### Proven Use Cases
