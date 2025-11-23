@@ -12,6 +12,9 @@
 # Claude Code settings (may contain tokens)
 .claude/settings.local.json
 
+# MCP server secrets (DO NOT commit actual API keys!)
+# Note: .mcp.json is intentionally tracked (uses env vars, no secrets)
+
 
 # Python
 __pycache__/
