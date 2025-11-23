@@ -45,6 +45,18 @@ This project demonstrates an end-to-end AI-assisted product management workflow,
 ### Bidirectional ADO Sync
 **Feature Updates via MCP**: Validated the ability to update features in Azure DevOps using the MCP (Model Context Protocol), enabling bidirectional sync between AI-assisted workflows and enterprise tooling.
 
+## Configuration
+
+This project uses MCP (Model Context Protocol) servers to integrate with external tools:
+
+- **Notion Integration**: Configured in `.mcp.json` with API key for accessing Notion workspace
+  - See [NOTION_SETUP.md](NOTION_SETUP.md) for detailed setup instructions
+  - Enables automated epic creation, page management, and stakeholder collaboration
+
+- **Azure DevOps Integration**: Configured in `.mcp.json` for work item management
+  - Requires `AZURE_DEVOPS_PAT` environment variable
+  - Enables automated feature and story creation in ADO
+
 ### Workflow Benefits
 **Audit Trail & Version Control**: By orchestrating everything through the command line with VS Code and GitHub integration, this approach provides:
 - Complete audit trail of all AI interactions and decisions
