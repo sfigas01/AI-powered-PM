@@ -163,17 +163,4 @@ What are your immediate next steps to implement this workflow?
 - [ ] Scale to larger projects
 
 #New worklflow
-1. Identify the strategic opportunities areas. This is where the org wants to focus its efforts. (have a metric you want to move)
-2. Do some research to validate which areas have most promise for innovation and adoption 
-3. prioritise and select
-4. Ideate - ideas can come from anywhere
-5. assess ideas 
-6. select ideas and set success metrics
-7. identify riskiest assumptions and paper prototype 
-8. POC 
-9. Assess and decide to build or hand-off
-
-##where can AI help in this work flow
-1. research
-2. planning (roadmapping, ADO, etc)
-3. prototyping 
+1. Identify the strategic opportunities areas. This is where the org wants to focus its efforts. (
