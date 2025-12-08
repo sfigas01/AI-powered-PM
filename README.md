@@ -6,6 +6,9 @@ This repository demonstrates a workflow (or workflows) for leveraging AI to hand
 This repo is my own side project used for learning about AI and does not represent the views of my employer.
 All content here is created using AI using what is publicly availble on the internet.
 
+> [!NOTE]
+> We are currently experimenting with **Antigravity** (Google DeepMind's agentic coding assistant) to compare its capabilities against VS Code and other AI coding tools.
+
 ## Purpose
 
 This repo serves as a workspace and showcase for using AI to:
