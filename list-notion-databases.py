@@ -7,15 +7,21 @@ import os
 import requests
 from pathlib import Path
 
-# Load .env file if it exists
-env_file = Path(__file__).parent / '.env'
-if env_file.exists():
-    with open(env_file) as f:
-        for line in f:
-            line = line.strip()
-            if line and not line.startswith('#') and '=' in line:
-                key, value = line.split('=', 1)
-                os.environ[key] = value
+# Load .env file (check .env.local first, then .env)
+env_files = ['.env.local', '.env']
+for env_name in env_files:
+    env_file = Path(__file__).parent / env_name
+    if env_file.exists():
+        print(f"Loading environment from {env_name}...")
+        with open(env_file) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    key, value = line.split('=', 1)
+                    # Don't overwrite existing env vars (e.g. from shell)
+                    if key not in os.environ:
+                        os.environ[key] = value
+        break # Stop after finding the first valid env file
 
 # Configuration
 NOTION_API_KEY = os.environ.get('NOTION_API_KEY')

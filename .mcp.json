@@ -1,14 +1,9 @@
 {
   "mcpServers": {
     "notion": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@notionhq/notion-mcp-server"
-      ],
-      "env": {
-        "NOTION_API_KEY": "${NOTION_API_KEY}"
-      }
+      "command": "/Users/stephaniefigas/Documents/GitHub/AI-powered-PM/notion-scripts/run-notion-mcp.sh",
+      "args": [],
+      "env": {}
     },
     "azure-devops": {
       "command": "/Users/stephaniefigas/Documents/GitHub/AI-powered-PM/ado-scripts/run-ado-mcp.sh",
